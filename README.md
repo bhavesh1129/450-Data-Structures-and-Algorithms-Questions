@@ -1,3 +1,3 @@
-## #450-DataStructuresAndAlgorithmsQuestions
+## #450DataStructuresAndAlgorithmsQuestions
 
 ### Link to the Question List: 
